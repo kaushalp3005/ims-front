@@ -288,5 +288,3 @@ export const interUnitChallanEnhancedSchema = z.object({
     lot_number: z.string().optional()
   })).min(1, "At least one line item is required")
 })
-
-

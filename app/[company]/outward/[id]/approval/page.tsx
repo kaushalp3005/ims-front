@@ -1897,4 +1897,3 @@ export default function OutwardApprovalPage({ params }: ApprovalPageProps) {
     </div>
   )
 }
-

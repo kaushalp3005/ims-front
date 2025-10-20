@@ -154,4 +154,3 @@ export default function OutwardStats({ company, refreshTrigger }: OutwardStatsPr
     </div>
   )
 }
-

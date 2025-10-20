@@ -811,4 +811,3 @@ export default function OutwardList({ company, onRefresh }: OutwardListProps) {
     </div>
   )
 }
-

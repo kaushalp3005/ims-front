@@ -265,4 +265,3 @@ export const DELIVERY_STATUS_LABELS: Record<string, string> = {
   'CANCELLED': 'Cancelled',
   'RETURNED': 'Returned'
 }
-

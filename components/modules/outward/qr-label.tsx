@@ -243,4 +243,3 @@ export default function OutwardQRLabelComponent({ payload, qrData, className = "
     </div>
   )
 }
-

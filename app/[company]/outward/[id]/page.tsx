@@ -666,4 +666,3 @@ export default function OutwardViewPage({ params }: OutwardViewPageProps) {
     </div>
   )
 }
-

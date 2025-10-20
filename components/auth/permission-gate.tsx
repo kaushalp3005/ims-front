@@ -64,4 +64,3 @@ export function PermissionGate({
     </PermissionGuard>
   )
 }
-

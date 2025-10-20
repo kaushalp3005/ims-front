@@ -70,11 +70,3 @@ export interface TransferFilters {
   vehicle_no?: string
   created_by?: string
 }
-
-
-
-
-
-
-
-

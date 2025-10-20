@@ -797,4 +797,3 @@ export async function deletePodFile(
     `/outward/${company}/${recordId}/delete-pod-file?${queryParams.toString()}`
   )
 }
-
